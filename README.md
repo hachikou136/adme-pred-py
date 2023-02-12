@@ -1,3 +1,5 @@
+./Anaconda3-2022.10-Linux-x86_64.sh
+
 # adme-pred-py
 
 This library supports computational drug discovery by implementing several druglikeness filters, medicinal chemistry filters, and provides an easy to use wrapping API for common cheminformatics calculations.
